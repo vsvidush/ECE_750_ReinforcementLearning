@@ -1,0 +1,3 @@
+Average Return: 494.09, Standard Error: 27.82  HOPPER_V5_tanh_400_300
+hopperv5 relu 64 64Steps: 1000001, Average Return: 895.99, Standard Error: 67.97
+hopperv5 relu 100 50 25 StepsSteps: 1000072, Average Return: 639.35, Standard Error: 44.23

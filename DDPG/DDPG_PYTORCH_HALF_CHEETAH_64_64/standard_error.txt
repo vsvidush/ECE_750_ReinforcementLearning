@@ -1,0 +1,2 @@
+Standard Error: 62.07   tanh half-cheetah [400,300]
+Average Return: 6321.16, Standard Error: 58.97 DDPG_HALF_CHeetah_64_64 Leaky_Relu
